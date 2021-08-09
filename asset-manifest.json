@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RokRak1/PWA-Robofriends/static/css/main.bd31ec19.chunk.css",
+    "main.js": "/RokRak1/PWA-Robofriends/static/js/main.44d0c7e3.chunk.js",
+    "main.js.map": "/RokRak1/PWA-Robofriends/static/js/main.44d0c7e3.chunk.js.map",
+    "runtime-main.js": "/RokRak1/PWA-Robofriends/static/js/runtime-main.8b9a676d.js",
+    "runtime-main.js.map": "/RokRak1/PWA-Robofriends/static/js/runtime-main.8b9a676d.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/RokRak1/PWA-Robofriends/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.2519b4fe.chunk.js": "/RokRak1/PWA-Robofriends/static/js/2.2519b4fe.chunk.js",
+    "static/js/2.2519b4fe.chunk.js.map": "/RokRak1/PWA-Robofriends/static/js/2.2519b4fe.chunk.js.map",
+    "static/js/3.1c07533a.chunk.js": "/RokRak1/PWA-Robofriends/static/js/3.1c07533a.chunk.js",
+    "static/js/3.1c07533a.chunk.js.map": "/RokRak1/PWA-Robofriends/static/js/3.1c07533a.chunk.js.map",
+    "index.html": "/RokRak1/PWA-Robofriends/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/RokRak1/PWA-Robofriends/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.bd31ec19.chunk.css.map": "/RokRak1/PWA-Robofriends/static/css/main.bd31ec19.chunk.css.map",
+    "static/js/2.2519b4fe.chunk.js.LICENSE.txt": "/RokRak1/PWA-Robofriends/static/js/2.2519b4fe.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RokRak1/PWA-Robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b9a676d.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.2519b4fe.chunk.js",
+    "static/css/main.bd31ec19.chunk.css",
+    "static/js/main.44d0c7e3.chunk.js"
+  ]
+}
